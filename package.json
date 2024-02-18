@@ -17,6 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage":"https://vmoiseev.github.io/ra-hoc-highlight/",
   "eslintConfig": {
     "extends": [
       "react-app",
