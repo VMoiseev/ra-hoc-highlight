@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/1crb4ytcfr35sntg?svg=true)](https://ci.appveyor.com/project/VMoiseev/ra-hoc-highlight)
+## [Проект](https://vmoiseev.github.io/ra-hoc-highlight/)
+
 Подсвечивание блоков
 ===
 
